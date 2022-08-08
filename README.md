@@ -1,5 +1,5 @@
 # Image_sorter
-Tge GUI-Image sorter was created for sorting image to three folders: BAD, GOOD, and STRANGE.
+The GUI-Image sorter was created for sorting image to three folders: BAD, GOOD, and STRANGE.
 1. "Open Directory" --> Open the catalog with the unsorted image.
 2. "Create Folders" --> Create folders: "BAD", "GOOD", "STRANGE".
 3. "GO!" --> Start.
